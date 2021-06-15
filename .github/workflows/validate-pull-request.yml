@@ -9,4 +9,4 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Compile Source
-        run: ./.actions/validate-pull-request.sh
+        run: sh .actions/validate-pull-request.sh
