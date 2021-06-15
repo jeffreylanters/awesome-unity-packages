@@ -30,6 +30,12 @@ Hi! My name is Jeffrey Lanters! I've been a Unity developer since 2012 and start
 
 </div>
 
-# Awesome
+# Awesome Unity Packages
 
 Inspired on many other [Awesome](https://github.com/sindresorhus/awesome) lists. Please take a quick gander at the [contribution guidelines](https://github.com/jeffreylanters/awesome-unity-packages/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/jeffreylanters/awesome-unity-packages/graphs/contributors), you're awesome! If you've noticed a package on the list that is no longer maintained or is not a good fit, please submit a pull request to improve to keep things awesome. Thank you!
+
+## Animation and Tweening
+
+_Packages for implementing all sorts of animations from character to userinterface._
+
+- [Unity Tweens](https://github.com/jeffreylanters/unity-tweens) An extremely light weight, extendable and customisable tweening engine made for strictly typed script-based animations for user-interfaces and world-space objects optimised for all platforms.
