@@ -38,4 +38,5 @@ Inspired on many other [Awesome](https://github.com/sindresorhus/awesome) lists.
 
 _Packages for implementing all sorts of animations from character to userinterface._
 
-- [Unity Tweens](https://github.com/jeffreylanters/unity-tweens) An extremely light weight, extendable and customisable tweening engine made for strictly typed script-based animations for user-interfaces and world-space objects optimised for all platforms.
+- [Unity Tweens](https://github.com/jeffreylanters/unity-tweens) is an extremely light weight, extendable and customisable tweening engine made for strictly typed script-based animations for user-interfaces and world-space objects optimised for all platforms.
+- [Bezier Solution](https://github.com/yasirkula/UnityBezierSolution) is bezier spline solution for Unity 3D with some utility functions. Splines can be created and edited visually in the editor, or by code during runtime.
