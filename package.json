@@ -13,14 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/jeffreylanters/awesome-unity-packages.git"
   },
-  "keywords": [
-    "awesome",
-    "list",
-    "opensource",
-    "unity",
-    "packages",
-    "dotnet"
-  ],
   "dependencies": {
     "markdownlint-cli": "^0.27.1"
   }
