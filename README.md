@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD041 -->
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/jeffreylanters/awesome-unity-packages/master/.github/wiki/repository-readme-splash.png" width="100%">
