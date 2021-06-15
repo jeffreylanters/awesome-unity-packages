@@ -1,0 +1,12 @@
+name: Validate Pull Request
+on:
+  - pull_request
+jobs:
+  main:
+    name: Main
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Compile Source
+        run: ./.actions/validate-pull-request.sh
