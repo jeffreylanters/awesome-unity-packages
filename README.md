@@ -5,9 +5,9 @@
 </br>
 </br>
 
-[![openupm](https://img.shields.io/npm/v/nl.elraccoone.tweens?label=UPM&registry_uri=https://package.openupm.com&style=for-the-badge&color=232c37)](https://openupm.com/packages/nl.elraccoone.tweens/)
 [![](https://img.shields.io/github/stars/jeffreylanters/awesome-unity-packages.svg?style=for-the-badge)]()
 [![](https://img.shields.io/badge/list-awesome-fc60a8.svg?style=for-the-badge)]()
+[![build](https://img.shields.io/github/checks-status/jeffreylanters/awesome-unity-packages/master?label=build&style=for-the-badge)](https://github.com/jeffreylanters/awesome-unity-packages/actions)
 
 A hand-picked and curated list of delightful and awesome open-source Unity Packages.
 
