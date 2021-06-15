@@ -1,0 +1,27 @@
+{
+  "name": "awesome-unity-packages",
+  "version": "1.0.0",
+  "description": "A hand-picked and curated list of delightful and awesome open-source Unity Packages.",
+  "author": "Jeffrey Lanters",
+  "license": "ISC",
+  "homepage": "https://github.com/jeffreylanters/awesome-unity-packages#readme",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffreylanters/awesome-unity-packages.git"
+  },
+  "keywords": [
+    "awesome",
+    "list",
+    "opensource",
+    "unity",
+    "packages",
+    "dotnet"
+  ],
+  "dependencies": {
+    "markdownlint-cli": "^0.27.1"
+  }
+}
