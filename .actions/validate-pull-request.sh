@@ -1,20 +1,19 @@
 #!/bin/sh
-clear
-INVALID=false
-CHANGES=$(git diff | grep '^[+|-][^+|-]' -- README.md)
+ISINVALID=false
 while IFS= read -r CHANGE; do
-  if [[ $CHANGE =~ "- [http" ]]; then
-    if [[ $CHANGE =~ "github.com/" ]]; then
-      echo "OK"
-    else
-      echo "ERROR: Invalid URL in:\n\t$CHANGE"
-      INVALID=true
+  if [[ $CHANGE =~ "+++"* ]] || [[ $CHANGE =~ "---"* ]] || [[ $CHANGE =~ "@@"* ]] || [[ $CHANGE =~ "diff"* ]] || [[ $CHANGE =~ "index"* ]] || [[ $CHANGE == "+" ]]; then
+    continue
+  elif [[ $CHANGE =~ "+- [http"* ]]; then
+    if ! [[ $CHANGE =~ "github.com/" ]]; then
+      echo "ERROR: Invalid URL\n\t$CHANGE"
+      ISINVALID=true
     fi
   else
-    echo "ERROR: Invalid change in:\n\t$CHANGE"
-    INVALID=true
+    echo "ERROR: Invalid change\n\t$CHANGE"
+    ISINVALID=true
   fi
-done <<< "$CHANGES"
-if [[ $INVALID == true ]]; then
+done <<< "$(git diff --unified=0 origin/main README.md)"
+if [[ $ISINVALID == true ]]; then
+  echo "ERROR: Something went wrong while validating"
   exit 1
 fi
