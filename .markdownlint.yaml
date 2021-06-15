@@ -2,224 +2,94 @@
 
 default: true
 extends: ""
-
-# MD001/heading-increment/header-increment
 MD001: true
-
-# MD002/first-heading-h1/first-header-h1
 MD002:
-  # Heading level
   level: 1
-
-# MD003/heading-style/header-style
 MD003:
-  # Heading style
-  style: "consistent"
-
-# MD004/ul-style
+  style: consistent
 MD004:
-  # List style
-  style: "consistent"
-
-# MD005/list-indent
+  style: consistent
 MD005: true
-
-# MD006/ul-start-left
 MD006: true
-
-# MD007/ul-indent
 MD007:
-  # Spaces for indent
   indent: 2
-  # Whether to indent the first level of the list
   start_indented: false
-
-# MD009/no-trailing-spaces
 MD009:
-  # Spaces for line break
   br_spaces: 2
-  # Allow spaces for empty lines in list items
   list_item_empty_lines: false
-  # Include unnecessary breaks
   strict: false
-
-# MD010/no-hard-tabs
 MD010:
-  # Include code blocks
   code_blocks: true
-
-# MD011/no-reversed-links
 MD011: true
-
-# MD012/no-multiple-blanks
 MD012:
-  # Consecutive blank lines
   maximum: 1
-
-# MD013/line-length
 MD013:
   line_length: 600
-  # Number of characters for headings
   heading_line_length: 80
-  # Number of characters for code blocks
   code_block_line_length: 80
-  # Include code blocks
   code_blocks: true
-  # Include tables
   tables: true
-  # Include headings
   headings: true
-  # Include headings
   headers: true
-  # Strict length checking
   strict: false
-  # Stern length checking
   stern: false
-
-# MD014/commands-show-output
 MD014: true
-
-# MD018/no-missing-space-atx
 MD018: true
-
-# MD019/no-multiple-space-atx
 MD019: true
-
-# MD020/no-missing-space-closed-atx
 MD020: true
-
-# MD021/no-multiple-space-closed-atx
 MD021: true
-
-# MD022/blanks-around-headings/blanks-around-headers
 MD022:
-  # Blank lines above heading
   lines_above: 1
-  # Blank lines below heading
   lines_below: 1
-
-# MD023/heading-start-left/header-start-left
 MD023: true
-
-# MD024/no-duplicate-heading/no-duplicate-header
 MD024:
-  # Only check sibling headings
   allow_different_nesting: false
-  # Only check sibling headings
   siblings_only: false
-
-# MD025/single-title/single-h1
 MD025:
-  # Heading level
   level: 1
-  # RegExp for matching title in front matter
   front_matter_title: "^\\s*title\\s*[:=]"
-
-# MD026/no-trailing-punctuation
 MD026:
-  # Punctuation characters
   punctuation: ".,;:!。，；：！"
-
-# MD027/no-multiple-space-blockquote
 MD027: true
-
-# MD028/no-blanks-blockquote
 MD028: true
-
-# MD029/ol-prefix
 MD029:
-  # List style
   style: "one_or_ordered"
-
-# MD030/list-marker-space
 MD030:
-  # Spaces for single-line unordered list items
   ul_single: 1
-  # Spaces for single-line ordered list items
   ol_single: 1
-  # Spaces for multi-line unordered list items
   ul_multi: 1
-  # Spaces for multi-line ordered list items
   ol_multi: 1
-
-# MD031/blanks-around-fences
 MD031:
-  # Include list items
   list_items: true
-
-# MD032/blanks-around-lists
 MD032: true
-
-# MD033/no-inline-html
 MD033:
-  # Allowed elements
   allowed_elements:
     - Div
     - Img
-
-# MD034/no-bare-urls
 MD034: true
-
-# MD035/hr-style
 MD035:
-  # Horizontal rule style
   style: "consistent"
-
-# MD036/no-emphasis-as-heading/no-emphasis-as-header
 MD036:
-  # Punctuation characters
   punctuation: ".,;:!?。，；：！？"
-
-# MD037/no-space-in-emphasis
 MD037: true
-
-# MD038/no-space-in-code
 MD038: true
-
-# MD039/no-space-in-links
 MD039: true
-
-# MD040/fenced-code-language
 MD040: true
-
-# MD041/first-line-heading/first-line-h1
 MD041:
-  # Heading level
   level: 1
-  # RegExp for matching title in front matter
   front_matter_title: "^\\s*title\\s*[:=]"
-
-# MD042/no-empty-links
 MD042: true
-
-# MD043/required-headings/required-headers
 MD043:
-  # List of headings
   headings:
     - "# Awesome Unity Packages"
     - "## Animation and Tweening"
-  # List of headings
   headers: []
-
-# MD044/proper-names
 MD044:
-  # List of proper names
   names: []
-  # Include code blocks
   code_blocks: true
-
-# MD045/no-alt-text
 MD045: true
-
-# MD046/code-block-style
 MD046:
-  # Block style
   style: "consistent"
-
-# MD047/single-trailing-newline
 MD047: true
-
-# MD048/code-fence-style
 MD048:
-  # Code fence syle
   style: "consistent"
