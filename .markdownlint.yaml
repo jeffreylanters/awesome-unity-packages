@@ -66,6 +66,7 @@ MD033:
   allowed_elements:
     - Div
     - Img
+    - H1
 MD034: true
 MD035:
   style: "consistent"
