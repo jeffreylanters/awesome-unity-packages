@@ -1,11 +1,6 @@
-<!-- markdownlint-disable MD041 -->
+<h1><img src="https://raw.githubusercontent.com/jeffreylanters/awesome-unity-packages/master/.github/wiki/repository-readme-splash.png" width="100%"></br></br></h1>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/jeffreylanters/awesome-unity-packages/master/.github/wiki/repository-readme-splash.png" width="100%">
-
-</br>
-</br>
 
 [![Stargazers](https://img.shields.io/github/stars/jeffreylanters/awesome-unity-packages.svg?style=for-the-badge)](https://github.com/jeffreylanters/awesome-unity-packages/stargazers)
 [![awesome](https://img.shields.io/badge/list-awesome-fc60a8.svg?style=for-the-badge)](https://github.com/sindresorhus/awesome)
