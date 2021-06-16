@@ -31,5 +31,8 @@ Inspired on many other [Awesome](https://github.com/sindresorhus/awesome) lists.
 
 _Packages for implementing all sorts of animations from character to userinterface._
 
-- [Unity Tweens](https://github.com/jeffreylanters/unity-tweens) is an extremely light weight, extendable and customisable tweening engine made for strictly typed script-based animations for user-interfaces and world-space objects optimised for all platforms.
-- [Bezier Solution](https://github.com/yasirkula/UnityBezierSolution) is bezier spline solution for Unity 3D with some utility functions. Splines can be created and edited visually in the editor, or by code during runtime.
+- [Unity Tweens](https://github.com/jeffreylanters/unity-tweens) An extremely light weight, extendable and customisable tweening engine made for strictly typed script-based animations for user-interfaces and world-space objects optimised for all platforms.
+- [Bezier Solution](https://github.com/yasirkula/UnityBezierSolution) A bezier spline solution for Unity 3D with some utility functions. Splines can be created and edited visually in the editor, or by code during runtime.
+- [Reanimator](https://github.com/aarthificial/reanimation) Reanimator is a custom animator for Unity created to simplify the development of Astortion.
+- [Fancy Scroll View](https://github.com/setchi/FancyScrollView) A generic ScrollView component that allows you to implement highly flexible animations. It also supports infinite scrolling.
+- [Animation Sequencer](https://github.com/brunomikoski/Animation-Sequencer) Animation sequencer is a way to create complex animations of sequence of events by a friendly user interface.
