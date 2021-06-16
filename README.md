@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/jeffreylanters/awesome-unity-packages/master/.github/wiki/repository-readme-splash.png" width="100%"></br></br></h1>
+<h1><img src="https://raw.githubusercontent.com/jeffreylanters/awesome-unity-packages/master/.github/wiki/repository-readme-splash.png" width="100%"></h1>
 
 <div align="center">
 
