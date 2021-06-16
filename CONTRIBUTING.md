@@ -38,4 +38,4 @@ Please open an issue if you would like to discuss anything that could be improve
 
 Removal changes will not be applied until they have been pending for a minimum of 1 week (7 days). This grace window benefits projects that may be going through a temporary transition but are otherwise worthy of being on the list.
 
-Thanks!
+Thanks, happy coding!
