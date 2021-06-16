@@ -39,7 +39,10 @@ _Packages for implementing all sorts of animations from character to userinterfa
 
 ## Augmented and Virtual Reality
 
+_Packages for implementing desktop and mobile augmented and virtual reality solutions._
+
 - [MeshUtility](https://github.com/vrm-c/UniVRM) Unity package that can import and export VRM format
 - [XR Line Renderer](https://github.com/Unity-Technologies/XRLineRenderer) An XR-Focused line renderer that mimics rendering with 3d capsules while only using two quads worth of geometry.
 - [HandPosing](https://github.com/MephestoKhaan/HandPosing) This package uses Oculus Quest hand-tracking to control Oculus default rigged hands and use it to generate grab poses in an instant.
 - [XRTK Core](https://github.com/XRTK/XRTK-Core) The Mixed Reality Toolkit's primary focus is to make it extremely easy to get started creating Mixed Reality applications and to accelerate deployment to multiple platforms from the same Unity project.
+- [ARKit Streamer](https://github.com/asus4/ARKitStreamer) A remote debugging tool for AR Founndation with ARKit4 featrues. This is temporary solution until the Unity team has completed the AR remote functionality - See Unity forum for more information.
