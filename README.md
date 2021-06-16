@@ -36,3 +36,10 @@ _Packages for implementing all sorts of animations from character to userinterfa
 - [Reanimator](https://github.com/aarthificial/reanimation) Reanimator is a custom animator for Unity created to simplify the development of Astortion.
 - [Fancy Scroll View](https://github.com/setchi/FancyScrollView) A generic ScrollView component that allows you to implement highly flexible animations. It also supports infinite scrolling.
 - [Animation Sequencer](https://github.com/brunomikoski/Animation-Sequencer) Animation sequencer is a way to create complex animations of sequence of events by a friendly user interface.
+
+## Augmented and Virtual Reality
+
+- [MeshUtility](https://github.com/vrm-c/UniVRM) Unity package that can import and export VRM format
+- [XR Line Renderer](https://github.com/Unity-Technologies/XRLineRenderer) An XR-Focused line renderer that mimics rendering with 3d capsules while only using two quads worth of geometry.
+- [HandPosing](https://github.com/MephestoKhaan/HandPosing) This package uses Oculus Quest hand-tracking to control Oculus default rigged hands and use it to generate grab poses in an instant.
+- [XRTK Core](https://github.com/XRTK/XRTK-Core) The Mixed Reality Toolkit's primary focus is to make it extremely easy to get started creating Mixed Reality applications and to accelerate deployment to multiple platforms from the same Unity project.
