@@ -46,3 +46,20 @@ _Packages for implementing desktop and mobile augmented and virtual reality solu
 - [HandPosing](https://github.com/MephestoKhaan/HandPosing) This package uses Oculus Quest hand-tracking to control Oculus default rigged hands and use it to generate grab poses in an instant.
 - [XRTK Core](https://github.com/XRTK/XRTK-Core) The Mixed Reality Toolkit's primary focus is to make it extremely easy to get started creating Mixed Reality applications and to accelerate deployment to multiple platforms from the same Unity project.
 - [ARKit Streamer](https://github.com/asus4/ARKitStreamer) A remote debugging tool for AR Founndation with ARKit4 featrues. This is temporary solution until the Unity team has completed the AR remote functionality - See Unity forum for more information.
+
+## Audio and Sound Systems
+
+_Packages for handeling everything sound and audio related_
+
+- [UniVoice](https://github.com/adrenak/univoice) UniVoice is a voice chat/VoIP solution for Unity. It comes with ready-to-use P2P (peer to peer) conenctivity which allows devices to communicate nearly free of cost.
+- [UniMic](https://github.com/adrenak/unimic) UniMic provides a convenience wrapper for Unity's Microphone class.
+- [USFXR](https://github.com/grapefrukt/usfxr) USFXR lets you quickly generate placeholder or permanent sound effects right inside the Unity editor.
+
+## Asset and Resource Management
+
+_Packages for managing, downloading and handling Unity Assets_
+
+- [Asset Usage Detector](https://github.com/yasirkula/UnityAssetUsageDetector) This editor extension helps you figure out at which places an asset or GameObject is used, i.e. lists the objects that refer to the asset. It is possible to search for references in the Project and in the scenes of your project.
+- [Async Image Loader](https://github.com/Looooong/UnityAsyncImageLoader) Async Image Loader aims to offload image loading, image decoding and mipmap generation to other threads. It creates smoother gameplay and reduces lag spike on the Unity main thread when loading large images.
+- [Addressables Services](https://github.com/dre0dru/AddressablesServices) A set of classes to convert Unity Addressables callbacks/coroutine workflow to async/await with UniTask.
+- [GLTFast](https://github.com/atteneder/glTFast) glTFast enables loading glTF (GL Transmission Format) asset files in Unity while focussing on speed, memory efficiency and a small build footprint.
