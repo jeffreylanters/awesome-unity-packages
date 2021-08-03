@@ -57,7 +57,7 @@ _Packages for handeling everything sound and audio related_
 
 ## Asset and Resource Management
 
-_Packages for managing, downloading and handling Unity Assets_
+_Packages for managing and downloading Unity Assets and Resources_
 
 - [Asset Usage Detector](https://github.com/yasirkula/UnityAssetUsageDetector) This editor extension helps you figure out at which places an asset or GameObject is used, i.e. lists the objects that refer to the asset. It is possible to search for references in the Project and in the scenes of your project.
 - [Async Image Loader](https://github.com/Looooong/UnityAsyncImageLoader) Async Image Loader aims to offload image loading, image decoding and mipmap generation to other threads. It creates smoother gameplay and reduces lag spike on the Unity main thread when loading large images.
