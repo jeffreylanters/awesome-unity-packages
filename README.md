@@ -1,3 +1,5 @@
+<!-- markdownlint-disable MD041 -->
+
 <div align="center">
 
 ![readme splash](https://raw.githubusercontent.com/jeffreylanters/awesome-unity-packages/master/.github/wiki/repository-readme-splash.png)
@@ -11,7 +13,7 @@ A hand-picked and curated list of delightful and awesome open-source Unity Packa
 [**Contribution Guidelines**](https://github.com/jeffreylanters/awesome-unity-packages/blob/main/CONTRIBUTING.md) &middot;
 [**Discussion Board**](https://github.com/jeffreylanters/awesome-unity-packages/discussions)
 
-**Made with &hearts; by Jeffrey Lanters**
+**Made with &hearts; by Jeffrey Lanters!**
 
 </div>
 
