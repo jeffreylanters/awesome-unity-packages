@@ -70,6 +70,18 @@ _Packages for taking control over the camera and create cinematics._
 - [HDRP UI Camera Stacking](https://github.com/alelievr/HDRP-UI-Camera-Stacking) package allows you to stack multiple camera rendering UI only at a fraction of the cost of a standard camera.
 - [Vision](https://github.com/mackysoft/Vision) makes Culling Groups available for everyone by offers a way to integrate your own systems into Unity’s culling and LOD pipeline.
 
+## Canvas and Graphical User Interfaces
+
+_Packages for create and working with the canvas and building graphical user interfaces._
+
+- [Canvas Visualizer](https://github.com/jeffreylanters/unity-canvas-visualizer) provides an editor util that helps you visualise all of your rectangle transforms within your canvas for easier navigation and building while working on your user interface.
+- [UI Effect](https://github.com/mob-sakai/UIEffect) let's decorate your UI with effects by letting you control parameters as you like from the script as well as inspector, Animation Clip is supported as a matter of course.
+- [UI Particle](https://github.com/mob-sakai/ParticleEffectForUGUI) provides a component to render particle effect for uGUI in Unity. The particle rendering is maskable and sortable, without Camera, RenderTexture or Canvas.
+- [XCharts](https://github.com/monitor1394/unity-ugui-XCharts) provides a powerful, easy-to-use, configurable charting and data visualization library for Unity's user interface system.
+- [Fancy Scroll View](https://github.com/setchi/FancyScrollView) is comes with a generic ScrollView component that allows you to implement highly flexible animations. It also supports infinite scrolling.
+- [Soft Masks](https://github.com/mob-sakai/SoftMaskForUGUI) provides a smooth masking component for Unity UI elements allowing you to beautifully represent the rounded edges of your UI.
+- [Notch Solution](https://github.com/5argon/NotchSolution) contains a set of components and tools to solve notched/cutout phones layout problems for Unity.
+
 ## Code and Component Generation
 
 _Packages which help with generating code and components._
@@ -79,3 +91,4 @@ _Packages which help with generating code and components._
 - [Genesis](https://github.com/jeffcampbellmakesgames/Genesis) is architected as a .Net Core console application that leverages Roslyn code analysis to inspect a target C# codebase and generate code files where developers can build custom code generators via an extensible plugin framework.
 - [Generic Objects](https://github.com/SolidAlloy/GenericUnityObjects) allows to create and use generic Scriptable Objects and Mono Behaviours in Unity.
 - [Scriptable Object Variant](https://github.com/GieziJo/ScriptableObjectVariant) adds a field to any Scriptable Object tagged with the SOVariant attribute that lets you select an original Scriptable Object and override selected fields in the child object.
+- [Entity Component System](https://github.com/jeffreylanters/unity-entity-component-system) provides a better approach to game design that allows you to concentrate on the actual problems you are solving: the data and behavior that make up your game. By moving from object-oriented to data-oriented design it will be easier for you to reuse the code and easier for others to understand and work on it.
