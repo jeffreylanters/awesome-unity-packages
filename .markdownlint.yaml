@@ -24,7 +24,7 @@ MD011: true
 MD012:
   maximum: 1
 MD013:
-  line_length: 600
+  line_length: 800
   heading_line_length: 80
   code_block_line_length: 80
   code_blocks: true
@@ -65,8 +65,6 @@ MD032: true
 MD033:
   allowed_elements:
     - Div
-    - Img
-    - H1
 MD034: true
 MD035:
   style: "consistent"
