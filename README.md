@@ -17,7 +17,7 @@ A hand-picked and curated list of delightful and awesome open-source Unity Packa
 
 # Awesome Unity Packages
 
-Inspired on many other [Awesome](https://github.com/sindresorhus/awesome) lists. Please take a quick gander at the [contribution guidelines](https://github.com/jeffreylanters/awesome-unity-packages/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/jeffreylanters/awesome-unity-packages/graphs/contributors), you're awesome! If you've noticed a package on the list that is no longer maintained or is not a good fit, please submit a pull request to improve to keep things awesome. Thank you!
+Inspired on many other [Awesome](https://github.com/sindresorhus/awesome) lists. Many of these awesome packages can be found on the awesome platform [OpenUPM](https://openupm.com). Please take a quick gander at the [contribution guidelines](https://github.com/jeffreylanters/awesome-unity-packages/blob/main/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/jeffreylanters/awesome-unity-packages/graphs/contributors), you're awesome! If you've noticed a package on the list that is no longer maintained or is not a good fit, please submit a pull request to improve to keep things awesome. Thank you!
 
 ## Animation and Tweening
 
@@ -55,3 +55,24 @@ _Packages for managing and downloading Unity Assets and Resources._
 - [Async Image Loader](https://github.com/Looooong/UnityAsyncImageLoader) aims to offload image loading, image decoding and mipmap generation to other threads. It creates smoother gameplay and reduces lag spike on the Unity main thread when loading large images.
 - [Addressables Services](https://github.com/dre0dru/AddressablesServices) provides a set of classes to convert Unity Addressables callbacks/coroutine workflow to async/await with UniTask.
 - [GLTFast](https://github.com/atteneder/glTFast) enables loading glTF (GL Transmission Format) asset files in Unity while focussing on speed, memory efficiency and a small build footprint.
+
+## Camera and Cinematic
+
+_Packages for taking control over the camera and create cinematics._
+
+- [Perception Package](https://github.com/Unity-Technologies/com.unity.perception) provides a toolkit for generating large-scale datasets for computer vision training and validation which is focused on a handful of camera-based use cases.
+- [Space Navigator](https://github.com/PatHightree/SpaceNavigator) lets you fly around your scene and allows you to move items around.
+  It can also be used at runtime via scripting.
+- [UniCAVE](https://github.com/widVE/UniCAVE) is a solution for running Unity within immersive projection VR display systems by providing a Plugin for Non-Head Mounted Virtual Reality Display Systems.
+- [HDRP UI Camera Stacking](https://github.com/alelievr/HDRP-UI-Camera-Stacking) package allows you to stack multiple camera rendering UI only at a fraction of the cost of a standard camera.
+- [Vision](https://github.com/mackysoft/Vision) makes Culling Groups available for everyone by offers a way to integrate your own systems into Unity’s culling and LOD pipeline.
+
+## Code and Component Generation
+
+_Packages which help with generating code and components._
+
+- [Scriptable Object Collection](https://github.com/brunomikoski/ScriptableObjectCollection) is a library to help improve the usability of Unity3D Scriptable Objects by grouping then into a collection and exposing then by code or nice inspectors!
+- [Malimbe](https://github.com/ExtendRealityLtd/Malimbe) for Unity aims to reduce repetitive boilerplate code by taking the assemblies that are created by build tools and changing the assembly itself, new functionality can be introduced and logic written as part of the source code can be altered.
+- [Genesis](https://github.com/jeffcampbellmakesgames/Genesis) is architected as a .Net Core console application that leverages Roslyn code analysis to inspect a target C# codebase and generate code files where developers can build custom code generators via an extensible plugin framework.
+- [Generic Objects](https://github.com/SolidAlloy/GenericUnityObjects) allows to create and use generic Scriptable Objects and Mono Behaviours in Unity.
+- [Scriptable Object Variant](https://github.com/GieziJo/ScriptableObjectVariant) adds a field to any Scriptable Object tagged with the SOVariant attribute that lets you select an original Scriptable Object and override selected fields in the child object.
