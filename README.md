@@ -7,6 +7,7 @@
 [![Stargazers](https://img.shields.io/github/stars/jeffreylanters/awesome-unity-packages.svg?style=for-the-badge)](https://github.com/jeffreylanters/awesome-unity-packages/stargazers)
 [![awesome](https://img.shields.io/badge/list-awesome-fc60a8.svg?style=for-the-badge)](https://github.com/sindresorhus/awesome)
 [![build](https://img.shields.io/github/workflow/status/jeffreylanters/awesome-unity-packages/Lint%20Markdown/main?style=for-the-badge)](https://github.com/jeffreylanters/awesome-unity-packages/actions)
+[![deployment](https://img.shields.io/github/deployments/jeffreylanters/awesome-unity-packages/Awesome%20List?style=for-the-badge)](https://github.com/jeffreylanters/awesome-unity-packages/deployments/activity_log?environment=Awesome+List)
 
 A hand-picked and curated list of delightful and awesome open-source Unity Packages.
 
