@@ -87,7 +87,6 @@ _Packages for create and working with the canvas and building graphical user int
 _Packages which help with generating code and components._
 
 - [Scriptable Object Collection](https://github.com/brunomikoski/ScriptableObjectCollection) is a library to help improve the usability of Unity3D Scriptable Objects by grouping then into a collection and exposing then by code or nice inspectors!
-- [Malimbe](https://github.com/ExtendRealityLtd/Malimbe) for Unity aims to reduce repetitive boilerplate code by taking the assemblies that are created by build tools and changing the assembly itself, new functionality can be introduced and logic written as part of the source code can be altered.
 - [Genesis](https://github.com/jeffcampbellmakesgames/Genesis) is architected as a .Net Core console application that leverages Roslyn code analysis to inspect a target C# codebase and generate code files where developers can build custom code generators via an extensible plugin framework.
 - [Generic Objects](https://github.com/SolidAlloy/GenericUnityObjects) allows to create and use generic Scriptable Objects and Mono Behaviours in Unity.
 - [Scriptable Object Variant](https://github.com/GieziJo/ScriptableObjectVariant) adds a field to any Scriptable Object tagged with the SOVariant attribute that lets you select an original Scriptable Object and override selected fields in the child object.
