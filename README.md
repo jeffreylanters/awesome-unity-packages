@@ -81,6 +81,7 @@ _Packages for create and working with the canvas and building graphical user int
 - [Fancy Scroll View](https://github.com/setchi/FancyScrollView) is comes with a generic ScrollView component that allows you to implement highly flexible animations. It also supports infinite scrolling.
 - [Soft Masks](https://github.com/mob-sakai/SoftMaskForUGUI) provides a smooth masking component for Unity UI elements allowing you to beautifully represent the rounded edges of your UI.
 - [Notch Solution](https://github.com/5argon/NotchSolution) contains a set of components and tools to solve notched/cutout phones layout problems for Unity.
+- [UI Toolkit Design System](https://github.com/sinanata/unity-ui-document-design-system) is a drop-in design system for Unity 6 UI Toolkit providing design tokens, themed components, icons, mobile responsiveness and runtime helpers through both UIDocument and world-space PanelRenderer backends, demonstrated by a live showcase with a walkable 3D gallery.
 
 ## Code and Component Generation
 
